@@ -24,7 +24,6 @@ This software project represents a unique collaboration between:
 Building on Dr. Peretz's findings, this project aims to:
 1. **Automate Analysis**: 
    - Convert manual venous flow measurements to automated processes
-   - Enable rapid analysis of CTP and CTA data
    - Provide consistent, reproducible results
 
 2. **Enhance Visualization**:
@@ -55,7 +54,7 @@ Key findings from this research:
 
 ## Authors and Contributors
 ### Project Team
-- **Yotam Gunders** - Software Development and Implementation
+- **Yotam Gunders** - B.Sc. in Electrical Engineering, HIT
 - **Dr. Amir Handelman** - Academic Supervisor, HIT
 
 ### Clinical Team
@@ -76,6 +75,7 @@ Key findings from this research:
 
 ## Future Directions
 Building on this collaboration, future developments may include:
+- Performance optimization to improve overall processing speed
 - Integration with hospital PACS systems
 - Extended analysis of various stroke patterns
 - Machine learning implementation for automated analysis
@@ -83,6 +83,6 @@ Building on this collaboration, future developments may include:
 
 ## Acknowledgments
 Special thanks to:
-- The Neurology Department at Shamir Medical Center
+- The Neurology Department at Shamir Medical Center 
 - The patients whose data contributed to this research
 - HIT Faculty for technical support and guidance
