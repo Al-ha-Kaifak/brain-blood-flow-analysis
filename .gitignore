@@ -1,0 +1,48 @@
+# MATLAB specific files
+*.mat
+*.asv
+*.m~
+slprj/
+*.slxc
+*.autosave
+codegen/
+
+# DICOM files (to protect patient privacy)
+*.dcm
+*.dicom
+
+# Output files
+*.png
+*.jpg
+*.jpeg
+*.tif
+*.tiff
+
+# Folders
+colored_images/
+results/
+temp/
+cache/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE specific files
+*.idea/
+*.vscode/
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# Other files to ignore
+*.zip
+*.tar.gz
+*.rar
